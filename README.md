@@ -5,3 +5,6 @@ cd advancedgraphs
 pip install streamlit pandas numpy plotly seaborn folium streamlit-folium networkx pyvis
 
 streamlit run advancedgraphs.py
+
+
+You can visualize the latitude and langitude with this project
